@@ -1,5 +1,5 @@
 {
-  "name": "AI Terminology Encyclopedia",
-  "description": "An interactive training encyclopedia for AI terminology, featuring categorized terms, search, and deep dives.",
+  "name": "AI百科全书",
+  "description": "面向内部培训与快速查阅的 AI 术语百科，支持分类浏览、搜索和可视化讲解。",
   "requestFramePermissions": []
 }
